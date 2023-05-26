@@ -1,0 +1,17 @@
+C:\Users\diosz\source\repos\minesweeper2\minesweeper2\obj\Debug\net6.0-windows\minesweeper2.csproj.AssemblyReference.cache
+C:\Users\diosz\source\repos\minesweeper2\minesweeper2\obj\Debug\net6.0-windows\minesweeper2.Form1.resources
+C:\Users\diosz\source\repos\minesweeper2\minesweeper2\obj\Debug\net6.0-windows\minesweeper2.csproj.GenerateResource.cache
+C:\Users\diosz\source\repos\minesweeper2\minesweeper2\obj\Debug\net6.0-windows\minesweeper2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diosz\source\repos\minesweeper2\minesweeper2\obj\Debug\net6.0-windows\minesweeper2.AssemblyInfoInputs.cache
+C:\Users\diosz\source\repos\minesweeper2\minesweeper2\obj\Debug\net6.0-windows\minesweeper2.AssemblyInfo.cs
+C:\Users\diosz\source\repos\minesweeper2\minesweeper2\obj\Debug\net6.0-windows\minesweeper2.csproj.CoreCompileInputs.cache
+C:\Users\diosz\source\repos\minesweeper2\minesweeper2\bin\Debug\net6.0-windows\minesweeper2.exe
+C:\Users\diosz\source\repos\minesweeper2\minesweeper2\bin\Debug\net6.0-windows\minesweeper2.deps.json
+C:\Users\diosz\source\repos\minesweeper2\minesweeper2\bin\Debug\net6.0-windows\minesweeper2.runtimeconfig.json
+C:\Users\diosz\source\repos\minesweeper2\minesweeper2\bin\Debug\net6.0-windows\minesweeper2.dll
+C:\Users\diosz\source\repos\minesweeper2\minesweeper2\bin\Debug\net6.0-windows\minesweeper2.pdb
+C:\Users\diosz\source\repos\minesweeper2\minesweeper2\obj\Debug\net6.0-windows\minesweeper2.dll
+C:\Users\diosz\source\repos\minesweeper2\minesweeper2\obj\Debug\net6.0-windows\refint\minesweeper2.dll
+C:\Users\diosz\source\repos\minesweeper2\minesweeper2\obj\Debug\net6.0-windows\minesweeper2.pdb
+C:\Users\diosz\source\repos\minesweeper2\minesweeper2\obj\Debug\net6.0-windows\minesweeper2.genruntimeconfig.cache
+C:\Users\diosz\source\repos\minesweeper2\minesweeper2\obj\Debug\net6.0-windows\ref\minesweeper2.dll
